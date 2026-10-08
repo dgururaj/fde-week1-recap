@@ -1,3 +1,4 @@
+# sample_fastapi.py implements a simple FastAPI server with endpoints to retrieve employee data.
 from fastapi import FastAPI
 from typing import List
 
