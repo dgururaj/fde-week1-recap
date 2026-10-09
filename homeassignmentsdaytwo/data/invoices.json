@@ -1,0 +1,32 @@
+[
+  {
+    "invoice_id": "INV-101",
+    "vendor": "ABC Ltd",
+    "amount": 85000,
+    "status": "PENDING"
+  },
+  {
+    "invoice_id": "INV-102",
+    "vendor": "XYZ Corp",
+    "amount": 142500,
+    "status": "PENDING"
+  },
+  {
+    "invoice_id": "INV-103",
+    "vendor": "123 Industries",
+    "amount": 95000,
+    "status": "PENDING"
+  },
+  {
+    "invoice_id": "INV-104",
+    "vendor": "RAJ CORPORATION",
+    "amount": 8000,
+    "status": "PENDING"
+  },
+  {
+    "invoice_id": "INV-105",
+    "vendor": "LIC CORPORATION",
+    "amount": 6000,
+    "status": "PAID"
+  }
+]
